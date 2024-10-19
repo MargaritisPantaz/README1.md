@@ -11,7 +11,6 @@ Transfer data to files through pipes
 # Compilation
 
 make
-gcc ask1.c -L. -lpipelib -o ask1
 
 # Execution
 
